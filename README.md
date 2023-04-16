@@ -1,16 +1,16 @@
-### Hi there 👋
+ #Mi perfil profecional 
 
-<!--
-**Eduardo079/Eduardo079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+####Mi nombre es Kevin Eduardo Martínez Escobar estudio la carrera de Ingenieria en Sistema , estudio cuarto año de la carrera con conocimiento de ingles intermedio  
 
-Here are some ideas to get you started:
+##### Lo que me apasiona es la tecnologia soy muy dedicado en lo que hago pongo todo mi esfuerzo  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Lenguajes que puedo manejar 
+- java
+- c#
+- c++
+- c
+
+####lenguajes de base de datos
+- SQL
+- MySql
+- Oracle
