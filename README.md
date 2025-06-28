@@ -2,7 +2,7 @@
 
 🎓 Ingeniero en Sistemas y Computación  
 🔬 Preespecializado en Innovación Tecnológica en la Industria 4.0  
-🚀 Apasionado por la tecnología, los procesos ETL y el desarrollo con .NET  
+🚀 Apasionado por la tecnología
 
 
 
