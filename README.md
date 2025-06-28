@@ -10,5 +10,5 @@
 
 - Mejorando mis habilidades en desarrollo backend con .NET  
 - Automatización de pipelines de datos y procesos ETL en la nube  
-- Construcción de dashboards interactivos para análisis gerencial  
+- Aprendiendo nuevas tecnologías como React, Node.js, Angular y Python  
 
